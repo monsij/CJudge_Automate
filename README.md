@@ -13,4 +13,8 @@ A python based script to automate code submissions to various online judges with
 **This script is currently supporting [Codechef](www.codechef.com) only**
 ## How to get going
 
-![gif-image](https://github.com/monsij/CJudge_Automate/blob/master/codechef.gif)
+The steps are specific to online judges. Navigate to the required path for further instructions.
+
+## Note
+
+> You are free to use these but with proper references to them if required.
