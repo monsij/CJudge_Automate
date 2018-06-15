@@ -11,8 +11,9 @@
 
 ### Runtime tasks:
 
---* Provide the code of the problem. Suppose if the problem is [(www.codechef.com/problems/TEST](www.codechef.com/problems/TEST) provide TEST as input.
---* Key in the language as specified. Only common languages supported!
+1.  Provide the code of the problem. Suppose if the problem is [www.codechef.com/problems/TEST](www.codechef.com/problems/TEST) provide TEST as input.
+
+2.  Key in the language as specified. Only common languages supported!
 
  _Now what ? Sit back and relax_
 
