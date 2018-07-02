@@ -26,7 +26,7 @@ with Browser('chrome') as browser:
     browser.fill('pass','YOUR-CODEDCHEF-PASSWORD')
     button = browser.find_by_name("op");
     button.click()
-    target_link = '/submit/' + prob_code
+    #target_link = '/submit/' + prob_code
     browser.click_link_by_partial_href('/submit/' + prob_code)
     # format the file path with double slashes . For example if the path is newfolder\code.cpp write it as newfolder\\code.cpp
     browser.attach_file('files[sourcefile]', 'PATH')
