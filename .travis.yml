@@ -4,5 +4,5 @@ python:
 install:
   - pip install splinter
   - pip install selenium
-script: python script.py
+script: python Codechef/script.py
   
